@@ -32,7 +32,7 @@ Starting your journey
 
 First, clone this repository:
 
-    $ git clone https://github.com/kuahyeow/git-workshop.git
+    $ git clone https://github.com/owenm-26/git-workshop.git
 
 You may want to fork (create your own copy of) the project on github and
 clone from your own repo. You can find the fork button at the top right of
